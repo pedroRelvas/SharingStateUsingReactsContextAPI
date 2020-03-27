@@ -1,2 +1,0 @@
-# SharingStateUsingReactsContextAPI
-Created with CodeSandbox
